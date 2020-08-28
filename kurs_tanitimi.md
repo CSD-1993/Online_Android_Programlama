@@ -4,15 +4,15 @@
  
 + Bu kurs katılımcıların __Android__ işletim sistemi için __Kotlin__ ve __Java__ programlama dillerini kullanarak profesyonel uygulama geliştirmelerini sağlayacaktır
 
-+ Android işletim sisteminin sürümler arası farkları ve benzerliklerine yönelik uygulama geliştirme teknikleri konular arasındadır
++ __Android__ işletim sisteminin sürümler arası farkları ve benzerliklerine yönelik uygulama geliştirme teknikleri konular arasındadır
 
 + Kurs içerisinde daha sonra da profesyonel uygulamalarda kullanılabilecek çeşitli kütüphaneler yazılacaktır ve eğitmen tarafından yazılmış kütüphaneler de ayrıca paylaşılacaktır
 
 + Kurs içerisinde irili ufaklı bir çok profesyonel uygulama geliştirilecektir
 
-+ Android programlama popüler olarak kullanılan yardımcı teknolojiler de detaylı olarak ele alınacaktır
++ __Android__ programlama popüler olarak kullanılan yardımcı teknolojiler de detaylı olarak ele alınacaktır
 
-+ Android progamlamada kullanılan Jetpack kütüphaneleri de detaylı olarak ele alınacaktıor
++ __Android__ progamlamada kullanılan Jetpack kütüphaneleri de detaylı olarak ele alınacaktıor
 
 + Büyük projeler geliştirilirken kullanılan yaklaşımlar ve mimariler uygulamalı olarak ele alınacaktır.
 
@@ -20,9 +20,9 @@
 
 + Katılımcılara bir projenin kodlama aşamasında nelere dikkat etmeleri gerektiği ve nasıl planlama yapıp geliştirme aşamasına geçebilecekleri de anlatılacak, bunlara yönelik uygulamalar yapılacaktır.
  
-+ Android ile uzaktaki uygulamaların haberleşmelerine yönelik çeşitli uygulamalar da geliştirilecektir
++ __Android__ ile uzaktaki uygulamaların haberleşmelerine yönelik çeşitli uygulamalar da geliştirilecektir
 
-+ Android ile IOT (Internet Of Things) uygulamaları da kurs kapsamındadır
++ __Android__ ile IOT _(Internet Of Things)_ uygulamaları da kurs kapsamındadır
 
 ## Ön Koşul
 Bu programa katılabilmek için daha _Java_ veya _C#_ dillerinden birini bilmek ya da derneğimizde düzenlenmekte olan _Java ile Nesne Yönelimli Programlama_ veya _C# ile Nesne Yönelimli Programlama_ kurslarından birine katılmış olmak gerekmektedir
@@ -35,7 +35,7 @@ Dersler hafta içi __Pazartesi - Çarşamba__ günleri saat __19:30 – 22-30__ 
 
 
 ## Eğitim İçeriği
-[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/Online_Java_ile_Uygulama_Gelistirme_Kursu/blob/master/kurs_icerigi.md)
+[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/Online_Android_Programlama/blob/master/kurs_programi.md)
 
 ## Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkan yardımcısı __Oğuz Karan__ tarafından verilmektedir. 
@@ -72,7 +72,7 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 
 + Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.
 
-+ Eğitim dili Türkçe’dir. Programlama ve kullanılan teknolojilerle ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
++ Eğitim dili Türkçe'dir. Programlama ve kullanılan teknolojilerle ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
 
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 2 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
 
@@ -86,4 +86,4 @@ _Android Programlama_ kursu ilgili eğitim materyalleri program süresince öğr
 [Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZEkdeqoqTsoE9QSbhwQHKs12g8RTE3Oiz9n). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-_Java ile Uygulama Geliştirme Kursu_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online_Java_ile_Uygulama_Gelistirme_Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
+_Java ile Uygulama Geliştirme Kursu_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online_Android_Programlama/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
