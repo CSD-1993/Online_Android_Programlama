@@ -1,4 +1,4 @@
-# Online Android Programlama
+# Online Java ve Kotlin ile Android Programlama
 
 + Bu kurs [__C ve Sistem Programcıları Derneği__](www.csystem.org) tarafından __Sistem Bilgisayar__ işbirliği ile düzenlenmektedir. 
  
@@ -10,9 +10,9 @@
 
 + Kurs içerisinde irili ufaklı bir çok profesyonel uygulama geliştirilecektir
 
-+ __Android__ programlama popüler olarak kullanılan yardımcı teknolojiler de detaylı olarak ele alınacaktır
++ __Android__ programlamada popüler olarak kullanılan yardımcı teknolojiler de detaylı olarak ele alınacaktır
 
-+ __Android__ progamlamada kullanılan Jetpack kütüphaneleri de detaylı olarak ele alınacaktır.
++ __Android__ progamlamada kullanılan _Jetpack_ kütüphaneleri de detaylı olarak ele alınacaktır.
 
 + Büyük projeler geliştirilirken kullanılan yaklaşımlar ve mimariler uygulamalı olarak ele alınacaktır.
 
@@ -64,7 +64,7 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 [Integral Yatırım](https://www.integralyatirim.com.tr/) yer almaktadır.
 
 ## Format
-+ *Android Programlama Kursu* online olarak gerçek zamanlı verilmektedir. _Udemy, Pluralsight_ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ *Java ve Kotlin ile Android Programlama Kursu* online olarak gerçek zamanlı verilmektedir. _Udemy, Pluralsight_ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
@@ -77,7 +77,7 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 2 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
-_Android Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
+_Java ve Kotlin ile Android Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
 + Kursun toplam ücreti __3.400 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __3.100__ TL'dir. Kurs ücretini __3__ taksitte ödeyebilirsiniz. __(Peşin ödemelerde %10 indirim uygulanmaktadır)__
@@ -86,4 +86,4 @@ _Android Programlama_ kursu ilgili eğitim materyalleri program süresince öğr
 [Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZEkdeqoqTsoE9QSbhwQHKs12g8RTE3Oiz9n). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-_Java ile Uygulama Geliştirme Kursu_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online_Android_Programlama/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
+_Java ile Uygulama Geliştirme Kursu_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online_Java_ve_Kotlin_ile_Android_Programlama/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
