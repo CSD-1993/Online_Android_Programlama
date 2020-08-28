@@ -2,15 +2,15 @@
 
 + Bu kurs [__C ve Sistem Programcıları Derneği__](www.csystem.org) tarafından __Sistem Bilgisayar__ işbirliği ile düzenlenmektedir. 
  
-+ Bu kurs katılımcıların __Android__ işletim sistemi için __Kotlin__ ve __Java__ programlama dillerini kullanarak profesyonel uygulama geliştirmelerini sağlayacaktır
++ Bu kurs katılımcıların __Android__ işletim sistemi için __Kotlin__ ve __Java__ programlama dillerini kullanarak profesyonel uygulama geliştirmelerini sağlayacaktır.
 
-+ __Android__ işletim sisteminin sürümler arası farkları ve benzerliklerine yönelik uygulama geliştirme teknikleri konular arasındadır
++ __Android__ işletim sisteminin sürümler arası farkları ve benzerliklerine yönelik uygulama geliştirme teknikleri konular arasındadır.
 
-+ Kurs içerisinde daha sonra da profesyonel uygulamalarda kullanılabilecek çeşitli kütüphaneler yazılacaktır ve eğitmen tarafından yazılmış kütüphaneler de ayrıca paylaşılacaktır
++ Kurs içerisinde daha sonra da profesyonel uygulamalarda kullanılabilecek çeşitli kütüphaneler yazılacaktır ve eğitmen tarafından yazılmış kütüphaneler de ayrıca paylaşılacaktır.
 
-+ Kurs içerisinde irili ufaklı bir çok profesyonel uygulama geliştirilecektir
++ Kurs içerisinde irili ufaklı bir çok profesyonel uygulama geliştirilecektir.
 
-+ __Android__ programlamada popüler olarak kullanılan yardımcı teknolojiler de detaylı olarak ele alınacaktır
++ __Android__ programlamada popüler olarak kullanılan yardımcı teknolojiler de detaylı olarak ele alınacaktır.
 
 + __Android__ progamlamada kullanılan _Jetpack_ kütüphaneleri de detaylı olarak ele alınacaktır.
 
@@ -22,7 +22,7 @@
  
 + __Android__ ile uzaktaki uygulamaların haberleşmelerine yönelik çeşitli uygulamalar da geliştirilecektir.
 
-+ __Android__ ile IOT _(Internet Of Things)_ uygulamaları da kurs kapsamındadır
++ __Android__ ile IOT _(Internet Of Things)_ uygulamaları da kurs kapsamındadır.
 
 ## Ön Koşul
 Bu programa katılabilmek için daha _Java_ veya _C#_ dillerinden birini bilmek ya da derneğimizde düzenlenmekte olan _Java ile Nesne Yönelimli Programlama_ veya _C# ile Nesne Yönelimli Programlama_ kurslarından birine katılmış olmak gerekmektedir.
