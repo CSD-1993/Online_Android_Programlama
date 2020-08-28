@@ -10,5 +10,5 @@
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online_Android_Programlama/blob/master/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online_Android_Programlama/blob/master/kurs_programi.md)
-+ [Sık Sorulan Sorular]()
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online_Android_Programlama/blob/master/sss.md)
 + [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZEkdeqoqTsoE9QSbhwQHKs12g8RTE3Oiz9n)
