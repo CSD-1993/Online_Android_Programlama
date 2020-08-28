@@ -28,7 +28,7 @@
 Bu programa katılabilmek için daha _Java_ veya _C#_ dillerinden birini bilmek ya da derneğimizde düzenlenmekte olan _Java ile Nesne Yönelimli Programlama_ veya _C# ile Nesne Yönelimli Programlama_ kurslarından birine katılmış olmak gerekmektedir
 
 ## Eğitim Süresi
-Programın toplam süresi __162__ saattir. 
+Programın toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
 Dersler hafta içi __Pazartesi - Çarşamba__ günleri saat __19:30 – 22-30__ saatleri arasında __3__'er saat olarak yapılacaktır.
