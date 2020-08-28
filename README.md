@@ -8,7 +8,7 @@
 + Kursun toplam ücreti __3.400 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __3.100__ TL'dir. Kurs ücretini __3__ taksitte ödeyebilirsiniz. __(Peşin ödemelerde %10 indirim uygulanmaktadır)__
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı]()
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online_Android_Programlama/blob/master/kurs_tanitimi.md)
 + [Kurs İçeriği]()
 + [Sık Sorulan Sorular]()
 + [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZEkdeqoqTsoE9QSbhwQHKs12g8RTE3Oiz9n)
