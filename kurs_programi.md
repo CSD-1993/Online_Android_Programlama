@@ -167,8 +167,7 @@
 + Örnek Uygulamalar 
 
 ## Content Provider'lar ile veri alışverişi
-+ Content provider kullanımı 
-+ 
++ Content provider kullanımı  
 
 ## Asenkron işlemler ve Çoklu thread (Multithreading) uygulamarı
 + Process kavramı
