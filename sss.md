@@ -16,8 +16,8 @@ Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisa
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
 Dersleri izleyen 2 gün içinde dersleri size özel verilecek şifre ile `Vimeo`'dan izleyebilirsiniz.
 
-### 160 saatlik bir kurs süresi çok uzun değil mi?
-Eğitim içeriği göz önüne alındığında __160__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
+### 162 saatlik bir kurs süresi çok uzun değil mi?
+Eğitim içeriği göz önüne alındığında __162__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 Tabi ki. 
