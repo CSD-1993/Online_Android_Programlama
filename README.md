@@ -1,4 +1,4 @@
-# Online Android Programlama
+# Online Java ve Kotlin ile Android Programlama
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından __Sistem Bilgisayar__ işbirliği ile düzenlenmektedir.
 + Kursun __21 Eylül 2020 Pazartesi__ günü başlayacaktır.
