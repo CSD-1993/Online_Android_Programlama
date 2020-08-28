@@ -12,7 +12,7 @@
 
 + __Android__ programlama popüler olarak kullanılan yardımcı teknolojiler de detaylı olarak ele alınacaktır
 
-+ __Android__ progamlamada kullanılan Jetpack kütüphaneleri de detaylı olarak ele alınacaktıor
++ __Android__ progamlamada kullanılan Jetpack kütüphaneleri de detaylı olarak ele alınacaktır.
 
 + Büyük projeler geliştirilirken kullanılan yaklaşımlar ve mimariler uygulamalı olarak ele alınacaktır.
 
