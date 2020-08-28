@@ -2,7 +2,7 @@
 
 ## Kotlin Programlama Dili (Java, C# ve C++ programcıları için)
 + Temel türler ve değişken tanımlama
-+ var ve val değşkenker
++ var ve val değişkenker
 + string template
 + Sabitler
 + Fonksiyon bildirimi çağrılması
