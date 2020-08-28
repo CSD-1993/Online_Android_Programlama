@@ -11,4 +11,4 @@
 + [Kursun Genel Tanıtımı]()
 + [Kurs İçeriği]()
 + [Sık Sorulan Sorular]()
-+ [Kursa Kayıt]()
++ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZEkdeqoqTsoE9QSbhwQHKs12g8RTE3Oiz9n)
