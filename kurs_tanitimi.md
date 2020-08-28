@@ -35,7 +35,7 @@ Dersler hafta içi __Pazartesi - Çarşamba__ günleri saat __19:30 – 22-30__ 
 
 
 ## Eğitim İçeriği
-[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/Online_Android_Programlama/blob/master/kurs_programi.md)
+[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/Online_Java_ve_Kotlin_ile_Android_Programlama/blob/master/kurs_programi.md)
 
 ## Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkan yardımcısı __Oğuz Karan__ tarafından verilmektedir. 
