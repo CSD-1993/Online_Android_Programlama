@@ -20,12 +20,12 @@
 
 + Katılımcılara bir projenin kodlama aşamasında nelere dikkat etmeleri gerektiği ve nasıl planlama yapıp geliştirme aşamasına geçebilecekleri de anlatılacak, bunlara yönelik uygulamalar yapılacaktır.
  
-+ __Android__ ile uzaktaki uygulamaların haberleşmelerine yönelik çeşitli uygulamalar da geliştirilecektir
++ __Android__ ile uzaktaki uygulamaların haberleşmelerine yönelik çeşitli uygulamalar da geliştirilecektir.
 
 + __Android__ ile IOT _(Internet Of Things)_ uygulamaları da kurs kapsamındadır
 
 ## Ön Koşul
-Bu programa katılabilmek için daha _Java_ veya _C#_ dillerinden birini bilmek ya da derneğimizde düzenlenmekte olan _Java ile Nesne Yönelimli Programlama_ veya _C# ile Nesne Yönelimli Programlama_ kurslarından birine katılmış olmak gerekmektedir
+Bu programa katılabilmek için daha _Java_ veya _C#_ dillerinden birini bilmek ya da derneğimizde düzenlenmekte olan _Java ile Nesne Yönelimli Programlama_ veya _C# ile Nesne Yönelimli Programlama_ kurslarından birine katılmış olmak gerekmektedir.
 
 ## Eğitim Süresi
 Programın toplam süresi __160__ saattir. 
