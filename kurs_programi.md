@@ -1,4 +1,4 @@
-# Android Programlama
+# Kotlin ve Java ile Android Programlama
 
 ## Kotlin Programlama Dili (Java, C# ve C++ programcıları için)
 + Temel türler ve değişken tanımlama
