@@ -77,7 +77,7 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 2 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
-_Java ve Kotlin ile Android Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
+_Kotlin ve Java ile Android Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
 Kursun toplam ücreti __3.400 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __3.100__ TL'dir. Kurs ücretini __3__ taksitte ödeyebilirsiniz. __(Peşin ödemelerde %10 indirim uygulanmaktadır)__
