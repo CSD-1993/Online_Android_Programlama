@@ -1,4 +1,4 @@
-# Online Android Programlama Kursu – Sık Sorulan Sorular
+# Online Kotlin ve Java ile Android Programlama Kursu – Sık Sorulan Sorular
 
 Aşağıda __Oğuz Karan__ tarafından verilen _Online Android Programlama Kursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
@@ -34,7 +34,7 @@ Kursa katılanların önemli bir kısmı çalışan kişilerden oluşuyor. Dersl
 
 + Anlamadığınız noktaları eğitmene sormalısınız.
 
-+ __Android Programlama Kursu__ çok kolay değil. Eğitimde şüphesiz zorlandığınız yerler olacak. Bu sizin moralinizi bozmamalı, motivasyonunuzu düşürmemeli. Eğer yeterli zaman ayırıp, çaba gösterirseniz zaman içinde her şey yerine oturacak. Biraz sabırlı olmalısınız.
++ __Kotlin ve Java ile Android Programlama Kursu__ çok kolay değil. Eğitimde şüphesiz zorlandığınız yerler olacak. Bu sizin moralinizi bozmamalı, motivasyonunuzu düşürmemeli. Eğer yeterli zaman ayırıp, çaba gösterirseniz zaman içinde her şey yerine oturacak. Biraz sabırlı olmalısınız.
 
 ### Dersleri kayıt edebilir miyim?
 Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
