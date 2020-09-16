@@ -236,7 +236,7 @@
     + UDP kullanılan örnekler
 + Örnek uygulamalar
 
-## Komnu işlemleri
+## Konum işlemleri
 + GPS kullanarak konum bilgisinin elde edilmesi
 + GSM kullanarak konum bilgisinin elde edilmesi
 + WiFi kullanarak konum bilgisinin elde edilmesi
