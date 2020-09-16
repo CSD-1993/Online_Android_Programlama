@@ -1,4 +1,4 @@
-# Online Java ve Kotlin ile Android Programlama
+# Online Kotlin ve Java ile Android Programlama
 
 + Bu kurs [__C ve Sistem Programcıları Derneği__](www.csystem.org) tarafından __Sistem Bilgisayar__ işbirliği ile düzenlenmektedir. 
  
