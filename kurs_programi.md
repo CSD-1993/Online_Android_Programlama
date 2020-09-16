@@ -113,7 +113,7 @@
 + jar ve aar dosyalarının proje içerisinde kullanımı
 + Örnek Uygulamalar
 
-## Gradle arascı
+## Gradle aracı
 + Gradle kullanımı
 + Gradle direktiflerinin anlamları
 + gradle dosyalarının anlamı
