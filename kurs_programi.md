@@ -100,7 +100,7 @@
 + Örnek Uygulamalar
 
 ## Reaktif programlama ve RxJava
-+ Reaktive programlama
++ Reaktif programlama
 + RxJava hakkında temel bilgiler
 + Android üzerinde RxJava (RxAndroid)
 + Kotlin ile RxJava kullanımı
@@ -208,7 +208,7 @@
 + Broadcast kavramı
 + Android broadcast kullanımı
 + Android sürümleri arasında broadcast fakları
-+ PÖrnek uygulamalar
++ Örnek uygulamalar
 
 ## Kaynak (resource) kullanımı
 + Kaynak kavramı
