@@ -97,6 +97,8 @@
 + Temel Adapter sınıfları
 + Temel AdapterView'lar (ListBox, Spinner vb.)
 + Custom adapter view'lar
++ Databinding
++ Viewbinding
 + Örnek Uygulamalar
 
 ## Reaktif programlama ve RxJava
