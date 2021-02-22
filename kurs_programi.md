@@ -153,23 +153,11 @@
     + files dizininde dosyalar
     + cache dizininde dosyalar
     + shared preferences dosyalar    
++ Ham kaynaktaki (raw resource)dosyaya erişim
++ Projenin assets dizinindeki dosyalara erişim
 + External memeory üzerinde dosya işlemleri
 + FileProvider ile uygulamalar arası dosya paylaşımı
 + Örnek uygulamalar
-
-## Yerel veritabanı işlemleri:
-+ Temel veritabanı kavramları
-    + CRUD işlemleri
-    + İlişkisel veritabanı yönetim sistemleri (Relational Database Management Systems)
-    + NoSql veritabanı yönetim sistemleri
-+ SQLite veritabanı yönetim sistemi
-+ SQLite API ile veritabanı işlemleri
-+ RoomDatabase kullanarak veritabanı işlemleri
-+ ObjectBox kullanarak veritabanı işlemleri
-+ Örnek Uygulamalar 
-
-## Content Provider'lar ile veri alışverişi
-+ Content provider kullanımı  
 
 ## Asenkron işlemler ve Çoklu thread (Multithreading) uygulamarı
 + Process kavramı
@@ -194,6 +182,20 @@
         + AndroidSchedulars sınıfı 
 + Thread'lerarası senksronizasyon
 + Örnek uygulamalar
+
+## Yerel veritabanı işlemleri:
++ Temel veritabanı kavramları
+    + CRUD işlemleri
+    + İlişkisel veritabanı yönetim sistemleri (Relational Database Management Systems)
+    + NoSql veritabanı yönetim sistemleri
++ SQLite veritabanı yönetim sistemi
++ SQLite API ile veritabanı işlemleri
++ RoomDatabase kullanarak veritabanı işlemleri
++ ObjectBox kullanarak veritabanı işlemleri
++ Örnek Uygulamalar 
+
+## Content Provider'lar ile veri alışverişi
++ Content provider kullanımı  
 
 ## Android Service uygulamaları (local and remote services)
 + Android service kavramı
