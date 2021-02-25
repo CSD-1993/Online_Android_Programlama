@@ -155,9 +155,9 @@
     + shared preferences
     + preferences
 + Serialization
-+ Ham kaynaktaki (raw resource)dosyaya erişim
++ Ham kaynaktaki (raw resource) dosyaya erişim
 + Projenin assets dizinindeki dosyalara erişim
-+ External memeory üzerinde dosya işlemleri
++ External memory üzerinde dosya işlemleri
 + FileProvider ile uygulamalar arası dosya paylaşımı
 + Örnek uygulamalar
 
