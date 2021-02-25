@@ -152,7 +152,9 @@
 + Internal memory üzerinde dosya işlemleri
     + files dizininde dosyalar
     + cache dizininde dosyalar
-    + shared preferences dosyalar    
+    + shared preferences
+    + preferences
++ Serialization
 + Ham kaynaktaki (raw resource)dosyaya erişim
 + Projenin assets dizinindeki dosyalara erişim
 + External memeory üzerinde dosya işlemleri
